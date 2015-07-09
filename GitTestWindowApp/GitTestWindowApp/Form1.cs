@@ -18,11 +18,11 @@ namespace GitTestWindowApp
 
         private void button2_Click(object sender, EventArgs e)
         {
-<<<<<<< HEAD
+
             MessageBox.Show("Durai");
-=======
+
             MessageBox.Show("hello");
->>>>>>> origin/Button3
+
         }
     }
 }
